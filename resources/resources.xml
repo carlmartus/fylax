@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/carlmartus/fylax">
+  <file compressed="true">application.glade</file>
+  <file compressed="true">find.glade</file>
+  <file compressed="true">read_container.glade</file>
+  <file compressed="true">read_paragraph.glade</file>
+  <file compressed="true">read_heading.glade</file>
+  <file compressed="true">read_checkbox.glade</file>
+  <file compressed="true">read_metadata.glade</file>
+  <file compressed="true">settings.glade</file>
+  <file compressed="true">widget_loading.glade</file>
+  <file>style.css</file>
+  </gresource>
+</gresources>
+
